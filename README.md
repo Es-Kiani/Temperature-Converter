@@ -46,7 +46,7 @@ And use the _Clear_ if you want to convert another temperature.
 
 ###     :camera:    Example:
 <h3 align="center"> 
-    <img src="https://github.com/Es-Kiani/Internet-Speed-Test/blob/main/ScSht/1.PNG">
+    <img src="https://github.com/Es-Kiani/Temperature-Converter/blob/main/ScSht/1.PNG">
 </h3>
 
 
